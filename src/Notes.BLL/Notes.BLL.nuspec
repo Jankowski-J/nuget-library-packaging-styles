@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Notes.BLL</id>
+    <version>1.0.8</version>
+    <title>LeL</title>
+    <authors>Jakub Jankowski</authors>
+    <owners>Jakub Jankowski</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <copyright>Copyright 2018</copyright>
+    <description>LEL</description>
+  </metadata>
+  <files>
+    <file src="lib\**" target="lib/{framework name}[{version}]" />
+  </files>
+</package>
