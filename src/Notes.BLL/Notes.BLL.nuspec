@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Notes.BLL</id>
+    <version>1.0.4</version>
+    <title>$title$</title>
+    <authors>Jakub Jankowski</authors>
+    <owners>Jakub Jankowski</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <copyright>Copyright 2018</copyright>
+  </metadata>
+</package>
