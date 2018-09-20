@@ -33,8 +33,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Notes.BLL, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Notes.BLL.1.0.3\lib\net472\Notes.BLL.dll</HintPath>
+    <Reference Include="Notes.BLL, Version=1.0.8.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Notes.BLL.1.0.8\lib\net472\Notes.BLL.dll</HintPath>
+    </Reference>
+    <Reference Include="Notes.DAL, Version=1.0.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Notes.DAL.1.0.5\lib\net472\Notes.DAL.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
